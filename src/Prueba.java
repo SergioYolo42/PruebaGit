@@ -5,5 +5,10 @@ public class Prueba {
             System.out.println(i);
             i++;
         }
+        i = 0;
+        while(i<100){
+            System.out.println("o");
+            i++;
+        }
     }
 }
